@@ -9,6 +9,6 @@
 # $ git clone https://github.com/TheSploit/Trojan-DDOS_Attack
 # $ cd Trojan-DDOS_Attack
 # $ ls
-# $ python2 Trojan.py
+# $ python3 Trojan.py
 
 <noscript><a href="https://liberapay.com/TheSploit/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
